@@ -73,8 +73,8 @@
 ## 开发&部署
 1. 克隆项目
 ```bash
-git clone https://github.com/302ai/302_ai_drawing_prompt_word_expert
-cd 302_ai_drawing_prompt_word_expert
+git clone https://github.com/302ai/302_ai_voice_arena
+cd 302_ai_voice_arena
 ```
 
 2. 安装依赖

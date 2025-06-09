@@ -71,8 +71,8 @@ Generate voice model rankings based on user votes.
 ## Development & Deployment
 1. Clone the project
 ```bash
-git clone https://github.com/302ai/302_ai_drawing_prompt_word_expert
-cd 302_ai_drawing_prompt_word_expert
+git clone https://github.com/302ai/302_ai_voice_arena
+cd 302_ai_voice_arena
 ```
 
 2. Install dependencies
