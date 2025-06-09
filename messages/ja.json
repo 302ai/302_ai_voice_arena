@@ -1,0 +1,212 @@
+{
+  "home": {
+    "header": {
+      "title": "ボイスアリーナ",
+      "description": "AIモデルの音声生成能力の比較",
+      "voiceClone": {
+        "title": "カスタム音声モデルを作成",
+        "newModelName": "新しいモデル名",
+        "modelNamePlaceholder": "音声モデル名を入力してください",
+        "hasAudio": "選択済みオーディオ:",
+        "uploadOrRecord": "アップロードまたは録音",
+        "selectFile": "ファイルを選択",
+        "or": "または",
+        "startRecord": "録音開始",
+        "stopRecord": "録音停止",
+        "referenceText": "参照テキスト",
+        "referenceTextReal": "音声サンプルとしてこのテキストを読み上げてください。最高の音声クローン効果を得るために、静かな環境ではっきりと読み上げてください。",
+        "makeClone": "音声モデルを作成"
+      }
+    }
+  },
+  "auth": {
+    "description": "作成者は認証を有効にしています。以下の共有コードを入力してください",
+    "form": {
+      "confirm_button": "確認",
+      "confirm_button_loading": "検証中",
+      "input_code": "共有コードを入力してください",
+      "remember_code": "共有コードを記憶する"
+    },
+    "title": "コードを共有する必要がある"
+  },
+  "global": {
+    "error": {
+      "code-10001": "302 APIキーがありません",
+      "code-10002": "このツールは無効化/削除されました。詳細は<Gw></Gw>をご覧ください",
+      "code-10003": "ネットワークエラー、後でもう一度お試しください",
+      "code-10004": "アカウント残高不足、独自のツールを作成してください。詳細は<Gw></Gw>をご覧ください",
+      "code-10005": "アカウント認証期限切れ、再ログインしてください",
+      "code-10006": "アカウント総額上限に達しました。詳細は<Gw></Gw>をご覧ください",
+      "code-10007": "アカウント日額上限に達しました。詳細は<Gw></Gw>をご覧ください",
+      "code-10008": "現在利用可能なチャネルがありません。詳細は<Gw></Gw>をご覧ください",
+      "code-10009": "現在のAPI機能はサポートされていません。詳細は<Gw></Gw>をご覧ください",
+      "code-10010": "現在のAPI機能はサポートされていません。詳細は<Gw></Gw>をご覧ください",
+      "code-10011": "無効なリクエスト",
+      "code-10012": "この無料ツールは今時間の上限に達しました。独自のツールを生成するには<Gw></Gw>をご覧ください",
+      "code-10018": "アカウント月額上限に達しました。詳細は<Gw></Gw>をご覧ください",
+      "code-1024": "AI接続タイムアウト、後でもう一度お試しいただくか、<Gw></Gw>にお問い合わせください",
+      "code-default": "不明なエラー、詳細は<Gw></Gw>をご覧ください"
+    },
+    "footer": {
+      "copyright_content": "<logo></logo>による提供",
+      "copyright_leading": "AI生成のコンテンツであり、参考用です"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "言語を切り替える"
+      },
+      "theme_switcher": {
+        "dark": "ダークモード",
+        "light": "ライトモード",
+        "system": "システムデフォルト",
+        "toggle_theme": "テーマを切り替える"
+      },
+      "tool_info": {
+        "description": "現在のツールに関する情報",
+        "title": "について",
+        "trigger": {
+          "label": "ツール情報ポップアップを開く/閉じる"
+        }
+      }
+    }
+  },
+  "loading": "読み込み中...",
+  "common": {
+    "generate": "生成",
+    "generating": "生成中",
+    "speed": "速度",
+    "randomText": "ランダムテキスト",
+    "translate": "翻訳",
+    "zh": "中国語",
+    "en": "英語",
+    "ja": "日本語",
+    "random": "ランダム",
+    "randomVoice": "ランダム音声",
+    "selectVoice": "音声を選択",
+    "selectLanguage": "言語を選択",
+    "platform": "プラットフォーム",
+    "generateError": "生成失敗",
+    "male": "男性",
+    "female": "女性",
+    "generationFailed": "生成失敗"
+  },
+  "tabs": {
+    "modelPk": "音声PK",
+    "modelGen": "音声生成",
+    "leaderBoard": "ランキング",
+    "history": "履歴",
+    "textToSpeech": "テキストから音声",
+    "voiceToVoice": "音声から音声",
+    "voiceClone": "音声クローン"
+  },
+  "example": {
+    "text1": "人生は海のようなもの、強い意志を持つ人だけが向こう岸にたどり着ける",
+    "text2": "失敗は成功の母、すべての失敗は成功への足がかりだ",
+    "text3": "チャンスは準備ができている人のためにある、学び続け蓄積してこそチャンスを掴める",
+    "text4": "光陰矢のごとし、時は人を待たない、今を大切に、今を生きよう",
+    "text5": "世界に絶対的な公平さはないが、自分のチャンスを作るために努力できる",
+    "text6": "成長の道において、勇気を持って自分らしくあれ、他人の目に惑わされるな",
+    "text7": "不可能に見える夢も、すべては強い信念から始まる",
+    "text8": "成功はゴールではなく、失敗も終わりではない、持続する勇気こそが最終的な勝利だ",
+    "text9": "人生は旅、大切なのは目的地ではなく、道中の景色とそれを見る心だ",
+    "text10": "どんな暗雲にも銀色の縁がある、困難の中にも希望は見つかる",
+    "text11": "自分を変えるのは難しい決断だが、力に満ちたプロセスだ",
+    "text12": "夢の大きさは問題ではない、大切なのはそれを追いかける勇気だ",
+    "text13": "人生は常に公平ではないが、毎日を前向きな姿勢で迎えることを選べる",
+    "text14": "快適ゾーンから勇気を持って踏み出せば、新たな世界と可能性を発見できる",
+    "text15": "謙虚さとは自分を過小評価することではなく、他者を称えながら自己反省を保つことだ"
+  },
+  "history": {
+    "title": "履歴",
+    "description": "ここにはあなたが生成したすべての音声が表示されます。最新の音声が最初に表示されます",
+    "tryGenerate": "音声生成を試してみましょう！"
+  },
+  "voicePk": {
+    "eg": "ここにプロンプトを入力してください（例：人生は海のようなもの、強い意志を持つ人だけが向こう岸にたどり着ける）",
+    "example": "人生は海のようなもの、強い意志を持つ人だけが向こう岸にたどり着ける",
+    "leftVoice": "左側の音声",
+    "rightVoice": "右側の音声",
+    "leftBetter": "左の方が良い",
+    "rightBetter": "右の方が良い",
+    "skip": "スキップ",
+    "win": "勝利",
+    "pleaseGenerate": "PK投票を行う前に、左右両側の音声を生成してください",
+    "pleaseSelectVoice": "音声を選択してください",
+    "noAvailableVoices": "音色が読み込まれていません。"
+  },
+  "textToSpeech": {
+    "singleText": "単一テキスト",
+    "multipleText": "複数テキスト",
+    "singleVoice": "単一音声",
+    "multipleVoice": "複数音声",
+    "eg": "ここにプロンプトを入力してください（例：人生は海のようなもの、強い意志を持つ人だけが向こう岸にたどり着ける）",
+    "example": "人生は海のようなもの、強い意志を持つ人だけが向こう岸にたどり着ける",
+    "pleaseSelectVoice": "音声を選択してください",
+    "voiceSelect": "音声選択",
+    "addVoice": "音声を追加",
+    "text": "テキスト",
+    "voice": "音声"
+  },
+  "voiceToVoice": {
+    "upload": "録音をアップロード",
+    "record": "録音開始",
+    "stopRecording": "録音停止",
+    "uploading": "アップロード中",
+    "processing": "処理中",
+    "or": "または",
+    "or_description": "録音ファイルを選択してください",
+    "reselect": "再選択",
+    "pleaseInput": "入力してください",
+    "textEmpty": "テキストを空にすることはできません",
+    "pleaseSelectVoice": "音声を選択してください",
+    "generateError": "生成失敗"
+  },
+  "voiceClone": {
+    "eg": "ここにプロンプトを入力してください（例：人生は海のようなもの、強い意志を持つ人だけが向こう岸にたどり着ける）",
+    "customVoice": "カスタム音声モデル",
+    "voice": "音声",
+    "speed": "速度",
+    "makeVoice": "音声モデルを作成",
+    "name": "名前",
+    "advise": "音声ファイルをアップロード（最短10秒、最長90秒、推奨25秒）",
+    "referenceText": "水循環は自然の循環システムです。水は地表から蒸発し、雲を形成し、雨として地表に戻ります。この循環プロセスは地球上の生命にとって非常に重要です",
+    "referenceTextReal": "参考録音テキスト:",
+    "selectFile": "ファイルを選択",
+    "startRecord": "録音開始",
+    "stopRecord": "録音停止",
+    "make": "作成",
+    "processing": "処理中",
+    "generate": "生成",
+    "pleaseInputName": "名前を入力してください",
+    "or": "または",
+    "error": {
+      "tooShort": "音声が短すぎます。再録音してください",
+      "tooLong": "音声が長すぎます。再録音してください",
+      "textEmpty": "テキストを空にすることはできません",
+      "pleaseSelectVoice": "音声を選択してください",
+      "noRecordingData": "録音データがありません",
+      "durationCalculationFailed": "音声時間の計算に失敗しました",
+      "recordingEndedFailed": "録音終了に失敗しました",
+      "noFile": "ファイルを選択してください",
+      "tooShortFile": "音声が短すぎます。再録音してください",
+      "tooLongFile": "音声が長すぎます。再録音してください"
+    },
+    "deleteSuccess": "削除成功"
+  },
+  "leaderBoard": {
+    "title": "ランキング",
+    "description": "ここにはすべてのユーザーが作成した音声モデルとPKでのパフォーマンスが表示されます",
+    "voice": "音声",
+    "winRate": "勝率",
+    "noData": "ランキングデータがありません",
+    "platform": "プラットフォーム",
+    "score": "スコア",
+    "pkCount": "出場回数"
+  },
+  "historyTab": {
+    "textContent": "テキスト内容",
+    "voicePk": "音声PK",
+    "voiceGenerate": "音声生成",
+    "noHistory": "履歴がありません"
+  }
+}

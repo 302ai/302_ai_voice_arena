@@ -1,0 +1,220 @@
+{
+  "home": {
+    "header": {
+      "title": "语音竞技场",
+      "description": "AI模型语音生成能力大比拼",
+      "voiceClone": {
+        "title": "创建自定义声音模型",
+        "newModelName": "新模型名称",
+        "modelNamePlaceholder": "请输入声音模型名称",
+        "hasAudio": "已选择音频:",
+        "uploadOrRecord": "上传或录制音频",
+        "selectFile": "选择文件",
+        "or": "或",
+        "startRecord": "开始录制",
+        "stopRecord": "停止录制",
+        "referenceText": "参考文本",
+        "referenceTextReal": "请朗读这段文本作为您的声音样本。确保在安静的环境中清晰地朗读，以获得最佳的声音克隆效果。",
+        "makeClone": "创建声音模型"
+      }
+    }
+  },
+  "auth": {
+    "description": "创建者开启了验证，请在下方填入分享码",
+    "form": {
+      "confirm_button": "确认",
+      "confirm_button_loading": "验证中",
+      "input_code": "请输入分享码",
+      "remember_code": "记住分享码"
+    },
+    "title": "需要分享码"
+  },
+  "global": {
+    "error": {
+      "code-10001": "缺少 302 API 密钥",
+      "code-10002": "该工具已禁用/删除，更多请访问 <Gw></Gw>",
+      "code-10003": "网络错误，请稍后重试",
+      "code-10004": "账户余额不足，创建属于自己的工具，更多请访问 <Gw></Gw>",
+      "code-10005": "账户凭证过期，请重新登录",
+      "code-10006": "账户总额度已达上限，更多请访问 <Gw></Gw>",
+      "code-10007": "账户日额度已达上限，更多请访问 <Gw></Gw>",
+      "code-10008": "当前无可用通道，更多请访问 <Gw></Gw>",
+      "code-10009": "不支持当前API功能，更多请访问 <Gw></Gw>",
+      "code-10010": "不支持当前API功能，更多请访问 <Gw></Gw>",
+      "code-10011": "无效的请求",
+      "code-10012": "该免费工具在本小时的额度已达上限，请访问 <Gw></Gw> 生成属于自己的工具",
+      "code-10018": "账户月额度已达上限，更多请访问 <Gw></Gw>",
+      "code-1024": "AI接口连接超时， 请稍后重试或者联系 <Gw></Gw>",
+      "code-default": "未知错误，更多请访问 <Gw></Gw>"
+    },
+    "footer": {
+      "copyright_content": "本项目由<logo></logo>驱动",
+      "copyright_leading": "内容由AI生成，仅供参考"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "切换语言"
+      },
+      "theme_switcher": {
+        "dark": "暗色模式",
+        "light": "亮色模式",
+        "system": "跟随系统",
+        "toggle_theme": "切换主题"
+      },
+      "tool_info": {
+        "description": "当前工具相关信息",
+        "title": "关于",
+        "trigger": {
+          "label": "打开/关闭工具信息弹窗"
+        }
+      }
+    }
+  },
+  "loading": "加载中...",
+  "common": {
+    "generate": "生成",
+    "generating": "生成中",
+    "speed": "语速",
+    "randomText": "随机文本",
+    "translate": "翻译",
+    "zh": "中文",
+    "en": "英文",
+    "ja": "日文",
+    "random": "随机",
+    "randomVoice": "随机音色",
+    "selectVoice": "选择音色",
+    "selectLanguage": "选择语言",
+    "platform": "平台",
+    "generateError": "生成失败",
+    "male": "男",
+    "female": "女",
+    "getProviderError": "获取供应商失败",
+    "deleteSuccess": "删除成功",
+    "copySuccess": "复制成功",
+    "copyFailed": "复制失败",
+    "downloadSuccess": "开始下载音频",
+    "downloadFailed": "下载失败",
+    "generationFailed": "生成失败"
+  },
+  "tabs": {
+    "modelPk": "音色PK",
+    "modelGen": "语音生成",
+    "leaderBoard": "排行榜",
+    "history": "历史记录",
+    "textToSpeech": "文本生成语音",
+    "voiceToVoice": "语音转语音",
+    "voiceClone": "语音克隆"
+  },
+  "example": {
+    "text1": "生活就像海洋，只有意志坚强的人才能到达彼岸",
+    "text2": "失败是成功之母，每一次失败都是通往成功的垫脚石",
+    "text3": "机会总是留给有准备的人，只有不断学习和积累，才能抓住它",
+    "text4": "光阴似箭，岁月不等人，珍惜当下，活在此刻",
+    "text5": "世界上没有绝对的公平，但我们可以努力去创造自己的机会",
+    "text6": "在成长的道路上，勇敢做自己，不为他人的眼光而动摇",
+    "text7": "每个看似不可能的梦想，都是从一个坚定的信念开始的",
+    "text8": "成功不是终点，失败也不是末日，只有持续的勇气才是最终的胜利",
+    "text9": "人生是一场旅行，重要的不是目的地，而是沿途的风景和看风景的心情",
+    "text10": "每一朵乌云都有银色的光边，困境中总能找到希望",
+    "text11": "改变自己是一个艰难的决定，但却是一个充满力量的过程",
+    "text12": "梦想的大小并不重要，重要的是去追逐它们的勇气",
+    "text13": "生活并非总是公平的，但是我们可以选择以积极的态度面对每一天",
+    "text14": "勇敢地走出舒适区，才能发现新天地和更多可能",
+    "text15": "谦虚不是在低估自己，而是在给予他人赞美的同时保持自我反思"
+  },
+  "history": {
+    "title": "历史记录",
+    "description": "这里展示了您所有生成过的语音，最新生成的语音会显示在最前面",
+    "tryGenerate": "来试试生成语音吧！"
+  },
+  "voicePk": {
+    "eg": "在此处输入您的提示 e.g.生活就像海洋，只有意志坚强的人才能到达彼岸",
+    "example": "生活就像海洋，只有意志坚强的人才能到达彼岸",
+    "leftVoice": "左侧音色",
+    "rightVoice": "右侧音色",
+    "leftBetter": "左边更好",
+    "rightBetter": "右边更好",
+    "skip": "跳过",
+    "win": "获胜",
+    "pleaseGenerate": "请先生成左右两侧的语音后再进行PK投票",
+    "pleaseSelectVoice": "请选择音色",
+    "noAvailableVoices": "正在加载音色列表..."
+  },
+  "textToSpeech": {
+    "singleText": "单文本",
+    "multipleText": "多文本",
+    "singleVoice": "单音色",
+    "multipleVoice": "多音色",
+    "eg": "在此处输入您的提示 e.g.生活就像海洋，只有意志坚强的人才能到达彼岸",
+    "example": "生活就像海洋，只有意志坚强的人才能到达彼岸",
+    "pleaseSelectVoice": "请选择音色",
+    "voiceSelect": "音色选择",
+    "addVoice": "新增音色",
+    "addText": "新增文案",
+    "text": "文案",
+    "voice": "音色",
+    "noAvailableCustomVoice": "没有可用的自定义音色"
+  },
+  "voiceToVoice": {
+    "upload": "上传录音",
+    "record": "开始录音",
+    "stopRecording": "停止录音",
+    "uploading": "上传中",
+    "processing": "处理中",
+    "or": "或",
+    "or_description": "请选择录音文件",
+    "reselect": "重新选择",
+    "pleaseInput": "请输入",
+    "textEmpty": "文本不能为空",
+    "pleaseSelectVoice": "请选择音色",
+    "generateError": "生成失败"
+  },
+  "voiceClone": {
+    "eg": "在此处输入您的提示 e.g.生活就像海洋，只有意志坚强的人才能到达彼岸",
+    "customVoice": "定制声音模型",
+    "voice": "音色",
+    "speed": "语速",
+    "makeVoice": "制作声音模型",
+    "name": "名称",
+    "advise": "上传声音文件（最短10秒，最长90秒，推荐25秒）",
+    "referenceText": "水循环是大自然的循环系统,水从地面蒸发,形成云,然后以雨的形式回到地面,这个循环过程对地球上的生命至关重要的",
+    "referenceTextReal": "参考录制文本:",
+    "selectFile": "选择文件",
+    "startRecord": "开始录制",
+    "stopRecord": "停止录制",
+    "make": "制作",
+    "processing": "处理中",
+    "generate": "生成",
+    "pleaseInputName": "请输入名称",
+    "or": "或",
+    "error": {
+      "tooShort": "音频太短，请重新录制",
+      "tooLong": "音频太长，请重新录制",
+      "textEmpty": "文本不能为空",
+      "pleaseSelectVoice": "请选择音色",
+      "noRecordingData": "没有录音数据",
+      "durationCalculationFailed": "音频时长计算失败",
+      "recordingEndedFailed": "录音结束失败",
+      "noFile": "请选择文件",
+      "tooShortFile": "音频太短，请重新录制",
+      "tooLongFile": "音频太长，请重新录制"
+    },
+    "deleteSuccess": "删除成功"
+  },
+  "leaderBoard": {
+    "title": "排行榜",
+    "description": "这里展示了所有用户创建的声音模型，以及它们在PK中的表现",
+    "voice": "音色",
+    "winRate": "胜率",
+    "noData": "暂无排行榜数据",
+    "platform": "平台",
+    "score": "得分",
+    "pkCount": "出场次数"
+  },
+  "historyTab": {
+    "textContent": "文本内容",
+    "voicePk": "音色PK",
+    "voiceGenerate": "语音生成",
+    "noHistory": "暂无历史记录"
+  }
+}
