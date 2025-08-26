@@ -2,13 +2,13 @@
 
 <p align="center">Voice Arena allows you to generate TTS (Text-to-Speech) using two AI voice models, either randomly or by selection, vote for the better model, generate personal rankings based on voting results, and provides features like voice-to-voice conversion and voice cloning to create your own customized voice models.</p>
 
-<p align="center"><a href="https://302.ai/en/tools/voicearena/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/71" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_Voice_Arena_en.png)
 
-This is the open-source version of the [Voice Arena](https://302.ai/en/tools/voicearena/) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
+This is the open-source version of the [Voice Arena](https://302.ai/product/detail/71) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
 
 ## Interface Preview
 In voice battles, you can randomly select or choose two voice models for text-to-speech generation, vote for the better model, and model names in random mode will be revealed after voting.      
