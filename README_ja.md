@@ -2,13 +2,13 @@
 
 <p align="center">ボイスアリーナでは、ランダムまたは選択した2つのAI音声モデルでTTS（テキスト音声合成）を行い、より良い効果のモデルに投票し、投票結果に基づいて個人ランキングを生成し、音声変換や音声クローニングなどの機能を提供して、あなた専用の音声モデルをカスタマイズできます。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/voicearena/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/71" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_Voice_Arena_jp.png)
 
-[302.AI](https://302.ai/ja/)の[ボイスアリーナ](https://302.ai/ja/tools/voicearena/)のオープンソース版です。
+[302.AI](https://302.ai/ja/)の[ボイスアリーナ](https://302.ai/product/detail/71)のオープンソース版です。
 302.AIに直接ログインすることで、コード不要、設定不要のオンライン体験が可能です。
 あるいは、このプロジェクトをニーズに合わせてカスタマイズし、302.AIのAPI KEYを統合して、自身でデプロイすることもできます。
 
